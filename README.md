@@ -112,7 +112,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
-- [poorcoder](https://github.com/Strawberry-Computer/poorcoder) — A collection of Bash scripts to extract code context, apply changes from markdown, and generate AI commit messages while using web-based LLMs.
 - [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) — A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation. Works with any LLM via OpenRouter, including Claude, ChatGPT, and Grok.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
@@ -120,7 +119,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) — Generates ignore configs for 7 AI coding tools based on per-tool bypass testing. Like `npx gitignore` but for Cursor, Claude Code, Gemini, JetBrains, Windsurf, Aider, and Copilot.
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
-- [Shell Whiz](https://github.com/beyimjan/shell-whiz) — highly configurable CLI assistant to generate shell commands and get explanations for them.
 - [AutoComplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh) - CLI tool that adds AI-powered command-line suggestions directly to your terminal with just type <TAB><TAB> to return the top suggestions for you.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
@@ -232,14 +230,12 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for Github and Gitlab that improves over time based on user comments
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
-- [Shippie](https://github.com/mattzcarey/shippie) — Extendable code review and QA agent using LLMs. Works as GitHub Action, GitLab CLI, or locally with MCP integration.
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
 - [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
-- [Dewhale](https://github.com/Yuyz0112/dewhale) — Open-source GitHub integration for AI-driven UI generation. Alternative to v0.dev with support for shadcn, lucide, and nivo charts.
 - [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
