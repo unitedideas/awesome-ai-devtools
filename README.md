@@ -125,7 +125,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
-- [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
+- [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
@@ -149,7 +149,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Open source version of Bolt.new that supports multiple LLM providers including Groq, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek.
 - [Lovable](https://lovable.dev/) — AI-powered full-stack app development platform that converts natural language descriptions or designs into fully functional applications with built-in deployment and GitHub integration.
 - [Co.dev](https://www.co.dev/) — AI-powered app development platform that helps build and deploy full-stack applications.
-- [Capacity](https://capacity.so) — AI powered full-stack web app development that turns prompts in natural language into fully functional web applications.
+- [Capacity](https://capacity.so) — AI-powered full-stack web app development that turns prompts in natural language into fully functional web applications.
 - [Leap.new](https://leap.new/) — Builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
@@ -264,7 +264,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
 - [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
-- [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for GitHub and GitLab that improves over time based on user comments
+- [EntelligenceAI](https://entelligence.ai/pr) — AI-powered code reviews for GitHub and GitLab that improves over time based on user comments.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
@@ -272,9 +272,9 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
 - [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
-- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
-- [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
-- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
+- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain English.
+- [Trag](https://usetrag.com/) — AI-powered code reviews with pre-defined instructions and patterns.
+- [CodeReviewBot](https://codereviewbot.ai/) — AI-powered code reviews for GitHub.
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
@@ -414,7 +414,7 @@ Curated lists, comparison guides, and configuration templates for AI coding tool
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
-- [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker and outage detector using Twitter/X sentiment data.
+- [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaints tracker and outage detector using Twitter/X sentiment data.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
 - [AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs) — 198 production-ready AI engineering resources: prompt frameworks, multi-agent configs, MCP setups, RAG pipelines, and automation scripts for Claude Code, Cursor, GPT-5, Copilot, and more. Free samples included.
 - [AI Coding Guide (中文)](https://github.com/jnMetaCode/ai-coding-guide) — Chinese best practices for 8 AI coding tools (Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Kiro, Aider, Trae) with copy-paste config templates and multi-tool collaboration workflows.
