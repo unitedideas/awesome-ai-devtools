@@ -124,6 +124,8 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
 
+- [CopilotButMakeItSayFunny](https://github.com/nobody-will-ever-read-this) — A VS Code extension that replaces all AI suggestions with sarcastic comments about your code quality. "Are you sure that's how arrays work?"
+
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
